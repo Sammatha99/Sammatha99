@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web app Front-End developer</h3>
 
 <br>
-###About me
+<h3>About me</h3>
 - 🎓 Studying software engineering at university of science, English skill: B2.1 (Advanced Mid) VNU
 
 - 🛠️ I use daily: `.js`, `.html`, `.css`, a little `.sql` and still try to master at `ReactJS`
@@ -17,7 +17,7 @@
 - ⚡ What I like to do: **listening to music, playing badminton and hang out ...and coding of course**
 
 <br>
-###Connect with me
+<h3>Connect with me</h3>
 <span float="left">
         <a href="https://www.facebook.com/nhatrang.ngo.18/" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  height="40"/>
@@ -28,8 +28,7 @@
 </span>
 
 <br>
-###Languages and Tools
-
+<h3>Languages and Tools</h3>
 <p > 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
