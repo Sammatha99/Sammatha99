@@ -4,6 +4,7 @@
 
 <br>
 <h3>About me</h3>
+        
 - 🎓 Studying software engineering at university of science, English skill: B2.1 (Advanced Mid) VNU
 
 - 🛠️ I use daily: `.js`, `.html`, `.css`, a little `.sql` and still try to master at `ReactJS`
